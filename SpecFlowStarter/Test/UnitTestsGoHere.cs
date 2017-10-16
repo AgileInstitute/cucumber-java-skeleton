@@ -4,11 +4,13 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Test
 {
     [TestClass]
-    public class UnitTest1
+    public class UnitTestsGoHere
     {
         [TestMethod]
-        public void TestMethod1()
+        public void SampleUnitTest()
         {
+            // your first unit test here
+            // with an assertion of some kind!
         }
     }
 }
